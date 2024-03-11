@@ -1,6 +1,6 @@
 {
   "name": "derivatives_qdbt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fundamental tool of calculus that quantifies the sensitivity of change of a function's output with respect to its input.",
   "main": "index.js",
   "scripts": {
