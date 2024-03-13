@@ -1,6 +1,6 @@
 {
   "name": "derivatives_qdbt",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Fundamental tool of calculus that quantifies the sensitivity of change of a function's output with respect to its input.",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/quangdbthai/derivatives_qdbt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/quangdbthai/derivatives_qdbt/issues"
   },
   "homepage": "https://twitter.com/QTeeeDB",
   "keywords": [
