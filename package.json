@@ -1,6 +1,6 @@
 {
   "name": "derivatives_qdbt",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Fundamental tool of calculus that quantifies the sensitivity of change of a function's output with respect to its input.",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,11 @@
     "are-arrays": "^1.0.0",
     "are-objects": "^1.0.0",
     "derivatives_qdbt": "^1.0.0"
+  "axios": "^0.24.0",    // Promise-based HTTP client for the browser and Node.js
+  "express": "^4.17.1",  // Fast, unopinionated, minimalist web framework for Node.js
+  "lodash": "^4.17.21",  // Utility library delivering consistency, customization, and performance
+  "moment": "^2.29.1",   // Parse, validate, manipulate, and display dates and times in JavaScript
+  "request": "^2.88.2"   // Simplified HTTP request client
   },
   "repository": {
     "type": "git",
